@@ -5,7 +5,5 @@ import App from './App.jsx'
 import TranslationApp from './test.jsx'
 
 createRoot(document.getElementById('root')).render(
-  <StrictMode>
     <TranslationApp />
-  </StrictMode>,
 )
